@@ -1,0 +1,18 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "cSpell.words": [
+        "Scrrenshot",
+        "asarray",
+        "noops",
+        "numpy",
+        "pubg",
+        "pyautogui"
+    ],
+    "cSpell.enableFiletypes": [
+        "jupyter",
+        "r",
+        "ruby",
+        "search-result",
+        "sql"
+    ]
+}
