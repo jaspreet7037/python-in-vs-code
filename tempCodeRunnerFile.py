@@ -1,1 +1,2 @@
-# ob.slow(10)
+
+while i>0:
