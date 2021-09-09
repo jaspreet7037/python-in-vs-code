@@ -1,0 +1,6 @@
+fr = open("C:\\Users\\jaspr\\OneDrive\\Desktop\\python in vs code\\abc.txt",'a')
+c = input("Enter the numbers : ")
+st=fr.write(c)
+print("The statement is : ",st)
+fr.write("\n")
+fr.close()

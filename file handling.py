@@ -1,0 +1,5 @@
+f1 = open("C:\\Users\\jaspr\\OneDrive\\Desktop\\python in vs code\\abc.txt",'a')
+st = input("enter the text = ")
+f1.write(st)
+f1.write("\n")
+f1.close()
